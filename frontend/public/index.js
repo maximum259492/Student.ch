@@ -1,0 +1,5 @@
+export { default as LogoWB } from './Logo-without-bg.png'
+export { default as Teacher } from './Teacher.jpeg'
+export { default as Food } from './food.webp'
+export { default as Dormitory } from './dormitory.jpeg'
+export { default as Books } from './Books.png'

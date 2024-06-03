@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Roboto', serif;
+    background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+    color: #EEE7DF;
+    line-height: 1.2rem;
+}
+
+@layer utilities {
+    .text-balance {
+        text-wrap: balance;
+    }
+}
